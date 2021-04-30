@@ -23,7 +23,7 @@ This value is the sum of time needed to fix each problem of the code. It represe
 48 Uncovered Lines
 14 Uncovered Conditions
 
-# Task 3 (This exercise was done by Covinfo19 team: Ricardo Cruz, Diogo Carvalho, Rafael Baptista, Pedro Amaral)
+## Task 3 (This exercise was done by Covinfo19 team: Ricardo Cruz, Diogo Carvalho, Rafael Baptista, Pedro Amaral)
 
 For this exercise we will check last semester work done in IES. 
 
